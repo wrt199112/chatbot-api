@@ -12,7 +12,7 @@
         <module>chatbot-api-domain</module>
         <module>chatbot-api-application</module>
         <module>chatbot-api-interfaces</module>
-        <module>chatbot-api-intrastructure</module>
+        <module>chatbot-api-infrastructure</module>
     </modules>
 
     <parent>
